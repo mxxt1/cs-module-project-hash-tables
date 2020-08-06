@@ -1,3 +1,5 @@
+
+init
 # Hash Tables
 
 ## Day 1
